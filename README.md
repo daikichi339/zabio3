@@ -4,6 +4,7 @@ Software Engineer
 
 - Go
 - Perl
+- TypeScript
 - Scala
 
 <!--
