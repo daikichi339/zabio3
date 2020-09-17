@@ -2,10 +2,10 @@
 
 Software Engineer
 
+- Scala
 - Go
 - Perl
 - TypeScript
-- Scala
 
 <!--
 **zabio3/zabio3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
